@@ -1,6 +1,6 @@
 # RFID Reader Testing
 
-In this project, I will be demonstrate the capability of a simple RFID Reader/Writer, easily accessible at Walmart for $7.09 as you can see here:
+In this project, I will demonstrate the capability of a simple RFID Reader/Writer, easily accessible at Walmart for $7.09 as you can see here:
 
 **Manunclaims Handheld RFID Writer, Handheld 125KHz RFID Duplicator Copier Writer Programmer Reader EM4305 ID Cards**
 ![RFID_Reader_Writer](https://github.com/nivvoudit/RFID_Testing/assets/25519970/4e6ba246-3fad-4cbe-8ea3-4946e49f458f)
