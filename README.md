@@ -13,9 +13,9 @@ In this project, I will demonstrate the capability of a simple RFID Reader/Write
 
 
 # "What is RFID" you say? And why should you care?
-Radio Frequency Identification (RFID) is a technology that uses electromagnetic fields to automatically identify and track tags attached to objects. These tags contain electronically stored information which can be read from a distance using an RFID reader. RFID is widely used in various applications such as inventory management, access control, contactless payments, and asset tracking. The technology enables quick and accurate data capture without the need for direct line-of-sight or physical contact, making it an efficient solution for automating identification processes and enhancing operational efficiency in many industries.
 
-**From the badges that you use to clock in at work, to your bank cards, your travel cards for the bus/train, your *passport*, your medical information and dare I even mention...your wristbands at Coachella/Shaky Knees/your favorite Coldplay/Taylor Swift concert? Yes, they are all mostly RFID based.**
+**From the badges that you use to clock in at work, to your bank cards, your travel cards for the bus/train, your passport, your medical information and dare I even mention...your wristbands at Coachella/Shaky Knees/your favorite Coldplay/Taylor Swift concert? Yes, they are (mostly) RFID based.**
+Radio Frequency Identification (RFID) is a technology that uses electromagnetic fields to automatically identify and track tags attached to objects. These tags contain electronically stored information which can be read from a distance using an RFID reader. RFID is widely used in various applications such as inventory management, access control, contactless payments, and asset tracking. The technology enables quick and accurate data capture without the need for direct line-of-sight or physical contact, making it an efficient solution for automating identification processes and enhancing operational efficiency in many industries.
 
 # My Process
 I will attempt to read an RFID proximity card and then attempt to clone it using another card of the same type (I will use a card, but as I will explain later below - there are also other types of media you can use to access resources via the RFID signal.
