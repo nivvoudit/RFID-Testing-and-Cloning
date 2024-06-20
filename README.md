@@ -11,10 +11,16 @@ In this project, I will demonstrate the capability of a simple RFID Reader/Write
 
 **Understanding the legal ramifications and implementing strong security measures are essential to safeguarding RFID technology from malicious exploitation.**
 
-# Process
-I will attempt to read a proximity card and then attempt to clone it using another card of the same type (I will use a card, but as you can see in the picture, key fobs are also available as writeable/cloneable devices since they contain similar RFID chips.)
 
-  *Proximity cards (also known as prox cards and key cards) are a type of smart card that make it easy to control access to and within a facility. They are physical devices containing a small antenna and programmed   with credentials and are used in security systems for electronic authentication i.e your typical key card that you would use to access your facility's front door and otherwise access other resources associated      with the information stored on that card.*
+# "What is RFID" you say? And why should you care?
+Radio Frequency Identification (RFID) is a technology that uses electromagnetic fields to automatically identify and track tags attached to objects. These tags contain electronically stored information which can be read from a distance using an RFID reader. RFID is widely used in various applications such as inventory management, access control, contactless payments, and asset tracking. The technology enables quick and accurate data capture without the need for direct line-of-sight or physical contact, making it an efficient solution for automating identification processes and enhancing operational efficiency in many industries.
+
+**From the badges that you use to clock in at work, to your bank cards, your travel cards for the bus/train, your *passport*, your medical information and dare I even mention...your wristbands at Coachella/Shaky Knees/your favorite Coldplay/Taylor Swift concert? Yes, they are all mostly RFID based.**
+
+# My Process
+I will attempt to read an RFID proximity card and then attempt to clone it using another card of the same type (I will use a card, but as I will explain later below - there are also other types of media you can use to access resources via the RFID signal.
+
+*Proximity cards (also known as prox cards and key cards) are a type of smart card that make it easy to control access to and within a facility. They are physical devices containing a small antenna and programmed with credentials and are used in security systems for electronic authentication i.e your typical key card that you would use to access your facility's front door and otherwise access other resources associated with the information stored on that card.*
 
 
 # **Reading the Source Card**......**SUCCESS!**
