@@ -20,9 +20,11 @@ I will attempt to read a proximity card and then attempt to clone it using anoth
 # **Reading the Source Card**......**SUCCESS!**
 ![RFID_Clone](https://github.com/nivvoudit/RFID_Testing/assets/25519970/4fc339b9-232b-49cc-bddb-caf6df833b98)
 
+
 Now that we have captured the data from the source card, let's see if we can write it to a card of a similar type. 
 
-# **Writing data from the source card to a CLONE card**..**SUCCESS!**
+
+# **Writing data from the source card to a CLONE card**.....**SUCCESS!**
 ![RFID_Write](https://github.com/nivvoudit/RFID_Testing/assets/25519970/18befdff-4106-412e-90d9-58907807e029)
 
 
