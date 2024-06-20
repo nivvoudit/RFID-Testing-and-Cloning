@@ -5,12 +5,13 @@ In this project, I will be demonstrate the capability of a simple RFID Reader/Wr
 **Manunclaims Handheld RFID Writer, Handheld 125KHz RFID Duplicator Copier Writer Programmer Reader EM4305 ID Cards**
 ![RFID_Reader_Writer](https://github.com/nivvoudit/RFID_Testing/assets/25519970/4e6ba246-3fad-4cbe-8ea3-4946e49f458f)
 
-# Please Note:
+# Important Note:
 **Legal Consequences:**
 *Engaging in unauthorized RFID cloning is illegal and can result in severe penalties, including fines and imprisonment. Laws such as the Computer Fraud and Abuse Act (CFAA) and various state-specific regulations criminalize the unauthorized access and replication of RFID data, aiming to protect individuals and institutions from these disruptive activities. Penalties vary based on the severity of the offense, the extent of damage caused, and the jurisdiction, but they underscore the serious nature of this cybercrime.*
 
 **Understanding the legal ramifications and implementing strong security measures are essential to safeguarding RFID technology from malicious exploitation.**
 
+# Process
 I will attempt to read a proximity card and then attempt to clone it using another card of the same type (I will use a card, but as you can see in the picture, key fobs are also available as writeable/cloneable devices since they contain similar RFID chips.)
 
   *Proximity cards (also known as prox cards and key cards) are a type of smart card that make it easy to control access to and within a facility. They are physical devices containing a small antenna and programmed   with credentials and are used in security systems for electronic authentication i.e your typical key card that you would use to access your facility's front door and otherwise access other resources associated      with the information stored on that card.*
