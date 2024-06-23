@@ -1,4 +1,4 @@
-# RFID Reader Testing
+# RFID Reader Testing and Cloning
 
 In this project, I will demonstrate the capability of a simple RFID Reader/Writer, easily accessible at Walmart for $7.09 as you can see here:
 
